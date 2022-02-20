@@ -1,4 +1,4 @@
-# arp_spoofer
+# ARP spoofer
 python ARP spoofer tool. Perform MitM attacks to intercept communication between network devices.
 # Usage
 - Download the files `git clone https://github.com/MateoGiraz/arp_spoofer.git`
